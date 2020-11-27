@@ -9,5 +9,5 @@ Use past data including the rainfall, temperatures, amount of PM10, PM2.5, NO, N
 * Access the notebook to run the codes: https://colab.research.google.com/drive/1EzncbK6AnnFW8Sy2oBrhi9JzeRICk548?usp=sharing
 
 ### Run (can save your own version)
-* Run this command: git clone <>
+* Run this command: git clone <https://github.com/b05702057/Machine_Learning_PM2.5_Prediction_Linear_Regression.git>
 * Upload the ipynb. to your google drive and open it with colab
