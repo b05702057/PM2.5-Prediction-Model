@@ -10,4 +10,4 @@ Use data including the rainfall, temperatures, amount of PM10, PM2.5, NO, NO2, t
 
 ### Run on Colab (can save your own version)
 * Run this command: git clone <https://github.com/b05702057/PM2.5-Prediction-Model.git>
-* Upload the ipynb. to your google drive and open it with colab
+* Upload the .ipynb files to your google drive and open it with colab
