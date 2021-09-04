@@ -1,6 +1,6 @@
 # PM2.5 Prediction 
 
-### A prediction of PM2.5 done with the linear regression model in machine learning
+### A prediction of PM2.5 with a linear regression model
 
 ## Task
 Use data including the rainfall, temperatures, amount of PM10, PM2.5, NO, NO2, the rainfall, and so on, to predict future PM2.5 with a linear regression model.   Compare the result of using different optimizer, including Adagrad and Adam, and different learning rates.
